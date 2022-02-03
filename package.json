@@ -1,0 +1,22 @@
+{
+  "name": "set-up-cypress-for-wordpress-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fawadshahzada/set-up-cypress-for-wordpress-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fawadshahzada/set-up-cypress-for-wordpress-site/issues"
+  },
+  "homepage": "https://github.com/fawadshahzada/set-up-cypress-for-wordpress-site#readme",
+  "devDependencies": {
+    "cypress": "^9.4.1"
+  }
+}
